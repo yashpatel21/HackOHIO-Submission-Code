@@ -9,6 +9,7 @@ We examined the relationship between student loan debt and the probability of a 
 ### Results/Solution:
 Inputting 5 different student loan debt forgiveness policies into our algorithm gives us the following results:
 
+![Results](https://github.com/yashpatel21/HackOHIO-Submission-Code/blob/main/probabilities_results.png)
 
 We disregarded forgiving all student loan debt as the best approach, as this was obvious, and our intention was to find a more viable approach. As a result, we conclude that the long-term student loan forgiveness plan based on the average requirements of borrowers is the best solution. This plan is based on the fact that the average borrower requires forgiveness of $40,000 in student loans, and this would result in an overall decrease of $901B in student loan debt. Utilizing this plan would have the largest impact on decreasing the probabilities of recession to about 7.25978*10-42%.
 
