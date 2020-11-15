@@ -40,4 +40,4 @@ We disregarded forgiving all student loan debt as the best approach, as this was
 -   fits a logistic curve to 1993-2008 data, and then 2009-2019 data.
 -   Uses Eulers Method to predict student loans over gdp for 2020.
 -   Conducts correlation and exponential regression between 2008 student loan over gdp and recession probabilities, and then 2020 student loan over gdp and recession probabilities.
--   Uses the 2020 exponential regression model to predict recession probabilities for 2020 if either Elizabeth Warren's or Pete Buttigieg's student loan debt forgiveness policies are applied.
+-   Uses the 2020 exponential regression model to predict recession probabilities for 2020 based on different student loan forgiveness policies.
